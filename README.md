@@ -1,2 +1,2 @@
 # CarlosCardona_Ejercicio22
-Ejercicio 21 Métodos Computacionales
+Ejercicio 22 Métodos Computacionales
